@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/micael/procedural_base/procedural/Content/graph_mesh/1x1_size2_tunnel.uasset",
+				"E:/micael/procedural_base/procedural/Content/pawn/forward.uasset",
+				"E:/micael/procedural_base/procedural/Content/blueprint/pawn/forward.uasset",
+				"E:/micael/procedural_base/procedural/Content/blueprint/pawn/pawn.uasset",
+				"E:/micael/procedural_base/procedural/Content/blueprint/pawn/NewInputMappingContext.uasset",
+				"E:/micael/procedural_base/procedural/Content/level/test1.umap",
+				"E:/micael/procedural_base/procedural/Content/blueprint/management/my_game_mode.uasset",
+				"E:/micael/procedural_base/procedural/Content/blueprint/pawn/pawn_test.uasset",
+				"E:/micael/procedural_base/procedural/Content/blueprint/pawn/mapping_base.uasset",
+				"E:/micael/procedural_base/procedural/Content/blueprint/pawn/left.uasset",
+				"E:/micael/procedural_base/procedural/Content/blueprint/pawn/right.uasset",
+				"E:/micael/procedural_base/procedural/Content/blueprint/pawn/up.uasset",
+				"E:/micael/procedural_base/procedural/Content/blueprint/pawn/down.uasset",
+				"E:/micael/procedural_base/procedural/Content/blueprint/notes/note.uasset"
+			]
+		}
+	]
+}
